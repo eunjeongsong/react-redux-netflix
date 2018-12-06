@@ -1,0 +1,4 @@
+const FETCH_MOVIE = "movies/FETCH_MOVIE"
+const FETCH_MOVIES = "movies/FETCH_MOVIES"
+
+export { FETCH_MOVIE, FETCH_MOVIES }
